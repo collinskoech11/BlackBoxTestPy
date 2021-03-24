@@ -1,3 +1,7 @@
+# Noel Wafuko
+# nww010 # 11308656
+# For Instructor Jeff Long
+
 def hasMajority ( ls ):
     """
     Determines if the input list " ls " includes the majority element or not .

@@ -1,3 +1,8 @@
+# Noel Wafuko
+# nww010 # 11308656
+# For Instructor Jeff Long
+
+
 def closest_to_zero(num1, num2, num3, k):
     num1 = 2
     num2 = 7 

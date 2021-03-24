@@ -1,3 +1,8 @@
+# Noel Wafuko
+# nww010 # 11308656
+# For Instructor Jeff Long
+
+
 [1, 5, 8]
 [-2, 4, 9]
 [1, 6, 8]
